@@ -1,0 +1,10 @@
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\bin\Debug\DotNetTrainingBatch3.exe.config
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\bin\Debug\DotNetTrainingBatch3.exe
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\bin\Debug\DotNetTrainingBatch3.pdb
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\obj\Debug\DotNetTrainingBatch3.csproj.AssemblyReference.cache
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\obj\Debug\DotNetTrainingBatch3.csproj.CoreCompileInputs.cache
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\obj\Debug\DotNetTrainingBatch3.exe
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\obj\Debug\DotNetTrainingBatch3.pdb
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\bin\Debug\DAL.dll
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\bin\Debug\DAL.pdb
+C:\training\DotNetTrainingBatch3\DotNetTrainingBatch3\obj\Debug\DotNetTrainingBatch3.csproj.CopyComplete

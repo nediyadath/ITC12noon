@@ -1,0 +1,6 @@
+C:\training\DotNetTrainingBatch3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\training\DotNetTrainingBatch3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\training\DotNetTrainingBatch3\DAL\bin\Debug\DAL.dll
+C:\training\DotNetTrainingBatch3\DAL\bin\Debug\DAL.pdb
+C:\training\DotNetTrainingBatch3\DAL\obj\Debug\DAL.dll
+C:\training\DotNetTrainingBatch3\DAL\obj\Debug\DAL.pdb
